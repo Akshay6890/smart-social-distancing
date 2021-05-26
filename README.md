@@ -115,11 +115,5 @@ set ```Thread = True``` in the config.
 - **Option 2**
     - 👯 Clone this repo:
     ```
-    $ git clone https://github.com/saimj7/Social-Distancing-Detection-in-Real-Time.git
+    $ git clone https://github.com/Akshay6890/smart-social-distancing.git
     ```
-
-- **Roll it!**
-
----
-
-saimj7/ 02-11-2020 © <a href="http://saimj7.github.io" target="_blank">Sai_Mj</a>.
